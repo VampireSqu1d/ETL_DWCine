@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_DWCine", "ETL_DWCine\ETL_DWCine.dtproj", "{5584729A-E563-4E83-B664-6B5079DC0673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5584729A-E563-4E83-B664-6B5079DC0673}.Development|Default.ActiveCfg = Development
+		{5584729A-E563-4E83-B664-6B5079DC0673}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D478101-66D8-4A6C-8CA2-C1EF1252E99B}
+	EndGlobalSection
+EndGlobal
